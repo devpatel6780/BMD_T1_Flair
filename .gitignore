@@ -1,3 +1,9 @@
 *.nii.gz
 .xlsx
 .DS_Store
+.gitignore
+.claude
+.cursor
+CLAUDE.md
+*.pth
+__pycache__/
